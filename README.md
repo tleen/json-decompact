@@ -5,7 +5,7 @@ Javascript utility to take a compacted JSON string and prettify it
 
 # Just One Thing
 
-The module is the function, take a compacted json string:
+The module is the function, take a compacted json string, return it pretty printed:
 
 ```javascript
 
