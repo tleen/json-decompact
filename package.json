@@ -1,6 +1,6 @@
 {
   "name": "json-decompact",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Take a compacted JSON string and prettify it",
   "main": "index.js",
   "scripts": {
